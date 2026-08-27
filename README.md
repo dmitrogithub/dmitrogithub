@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Dmytro 👋
 
-<!--
-**dmitrogithub/dmitrogithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on backend systems, AI applications and secure software development.
 
-Here are some ideas to get you started:
+I hold a Bachelor's degree in Software Engineering with a focus on Artificial Intelligence and am continuing my studies with a Master's degree in Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies
+
+Languages: Python, TypeScript, Go, C++, C#, C, Rust
+
+Backend & Systems: REST APIs, HTTP/HTTPS, WebRTC, FFmpeg, Linux, Networking
+
+AI: Whisper, Transformers, NLLB, local LLMs, Ollama, PyTorch
+
+Databases: SQL, PostgreSQL, SQLite
+
+Tools: Git, GitHub Actions, Docker, Visual Studio, VS Code
+
+Security: Authentication, Authorization, TLS, Secure Password Storage, Web Security Fundamentals
+
+Currently
+
+🎓 Pursuing a Master's degree in Cybersecurity
+🔐 Expanding my knowledge of application security and AI security
+💼 Looking for Junior Software Engineer, Backend Engineer, AI Engineer and Software Engineering Internship opportunities
